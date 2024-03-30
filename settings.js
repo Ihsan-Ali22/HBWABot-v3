@@ -34,26 +34,26 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['916909258087'] //ur owner number
 global.ownernomer = "916909258087" //ur owner number2
-global.ownername = "꧁Isaac♕꧂" //ur owner name
-global.ytname = "YT: HBWABOT OFC" //ur yt chanel name
+global.ownername = "𝓘𝓱𝓼𝓪𝓷_𝓐𝓵𝓲" //ur owner name
+global.ytname = "YT: Islamic_statuses1" //ur yt chanel name
 global.socialm = "https://herbert70.blogspot.com" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "PAKISTAN, SINDH, KARACHI" //ur location
 
 //new
 global.lann = 'isi_dulu'
-global.botname = "HBWABot Mizo"
-global.ownernumber = '918416093656'
-global.ownername = '꧁Isaac♕꧂'
-global.ownerNumber = ["918416093656@s.whatsapp.net"]
+global.botname = "TURBO MD"
+global.ownernumber = '923403075729'
+global.ownername = '𝓘𝓱𝓼𝓪𝓷_𝓐𝓵𝓲'
+global.ownerNumber = ["923403075729@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.websitex = "https://herbert70.blogspot.com"
-global.wagc = "https://chat.whatsapp.com/B8XZPwNinqb9jj9HIvfkPO"
+global.wagc = "https://chat.whatsapp.com/F34JgtgNq9xFNcBBeVCpEa"
 global.themeemoji = '🖤'
 global.wm = "HBWABot Inc."
 global.botscript = 'https://github.com/HBMods-OFC/HBWABot-v3' //script link
 global.packname = "Sticker By"
-global.author = "HBWABot"
-global.creator = "918416093656@s.whatsapp.net"
+global.author = "𝓘𝓱𝓼𝓪𝓷_𝓐𝓵𝓲"
+global.creator = "923403075729@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
